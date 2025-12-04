@@ -1,6 +1,6 @@
 <template>
   <div class="my-element">
-    <p :style="textStyle">I am a custom element !</p>
+    <p :style="textStyle">I am a custom element! Hello world!</p>
   </div>
 </template>
 
